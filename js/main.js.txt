@@ -1,0 +1,3 @@
+document.addEventListener('DOMContentLoaded', () => {
+    // JavaScript to enhance functionality can be added here
+});

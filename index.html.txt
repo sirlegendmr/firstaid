@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>First Aid Training</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="hero">
+            <h1>First Aid Training</h1>
+            <p>Learn to save lives with our comprehensive first aid courses.</p>
+            <a href="services.html" class="btn">View Courses</a>
+        </section>
+        <section class="about">
+            <h2>About Us</h2>
+            <p>We provide expert first aid training to help you respond to emergencies confidently and effectively.</p>
+        </section>
+        <section class="testimonials">
+            <h2>Testimonials</h2>
+            <p>"The training was excellent. I feel much more prepared to handle emergencies now." - Jane Doe</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 First Aid Training. All rights reserved.</p>
+    </footer>
+    <script src="js/main.js"></script>
+</body>
+</html>

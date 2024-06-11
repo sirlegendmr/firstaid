@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Services</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="services">
+            <h1>Our Courses</h1>
+            <article>
+                <h2>Basic First Aid</h2>
+                <p>Learn the fundamentals of first aid, including CPR, wound care, and emergency response.</p>
+            </article>
+            <article>
+                <h2>Advanced First Aid</h2>
+                <p>Build on your basic knowledge with advanced techniques and life-saving skills.</p>
+            </article>
+            <article>
+                <h2>CPR Certification</h2>
+                <p>Get certified in CPR and learn how to save lives in cardiac emergencies.</p>
+            </article>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 First Aid Training. All rights reserved.</p>
+    </footer>
+    <script src="js/main.js"></script>
+</body>
+</html>
